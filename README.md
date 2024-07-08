@@ -25,4 +25,4 @@ Tampilan saat melakukan pencarian pada aplikasi biodata pahlawan
 Tampilan saat mengklik salah satu data pahlawan 
 # Link Referensi Jurnal
 [Link Jurnal Nasional](https://journal.ibrahimy.ac.id/index.php/JIMI/article/view/892)
-
+[Link Jurnal Internasional](https://iocscience.org/ejournal/index.php/mantik/article/download/3325/2565/10909)
